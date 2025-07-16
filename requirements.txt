@@ -1,0 +1,9 @@
+gdown==5.2.0
+imutils==0.5.4
+matplotlib==3.10.3
+numpy==2.3.1
+Pillow==11.3.0
+Requests==2.32.4
+streamlit==1.37.1
+supervision==0.26.0
+ultralytics==8.3.32
